@@ -1,0 +1,10 @@
+pyaudio
+SpeechRecognition
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
+Pillow
+pip
+pyttsx3
+openai
+customtkinter
+
